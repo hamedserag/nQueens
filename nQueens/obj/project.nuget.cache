@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bFKziEj2QSCpfP9iN3woQTLZqMGKZgaM5L9hqpYXLZMEJvP/n/KAdSx5VRMpVRriUPXBKAFR83PkgBaezcPZeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamed\\source\\repos\\nQueens\\nQueens\\nQueens.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

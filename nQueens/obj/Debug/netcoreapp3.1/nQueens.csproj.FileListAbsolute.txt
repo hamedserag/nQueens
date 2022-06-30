@@ -1,0 +1,14 @@
+C:\Users\hamed\source\repos\nQueens\nQueens\bin\Debug\netcoreapp3.1\nQueens.exe
+C:\Users\hamed\source\repos\nQueens\nQueens\bin\Debug\netcoreapp3.1\nQueens.deps.json
+C:\Users\hamed\source\repos\nQueens\nQueens\bin\Debug\netcoreapp3.1\nQueens.runtimeconfig.json
+C:\Users\hamed\source\repos\nQueens\nQueens\bin\Debug\netcoreapp3.1\nQueens.runtimeconfig.dev.json
+C:\Users\hamed\source\repos\nQueens\nQueens\bin\Debug\netcoreapp3.1\nQueens.dll
+C:\Users\hamed\source\repos\nQueens\nQueens\bin\Debug\netcoreapp3.1\nQueens.pdb
+C:\Users\hamed\source\repos\nQueens\nQueens\obj\Debug\netcoreapp3.1\nQueens.csproj.AssemblyReference.cache
+C:\Users\hamed\source\repos\nQueens\nQueens\obj\Debug\netcoreapp3.1\nQueens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamed\source\repos\nQueens\nQueens\obj\Debug\netcoreapp3.1\nQueens.AssemblyInfoInputs.cache
+C:\Users\hamed\source\repos\nQueens\nQueens\obj\Debug\netcoreapp3.1\nQueens.AssemblyInfo.cs
+C:\Users\hamed\source\repos\nQueens\nQueens\obj\Debug\netcoreapp3.1\nQueens.csproj.CoreCompileInputs.cache
+C:\Users\hamed\source\repos\nQueens\nQueens\obj\Debug\netcoreapp3.1\nQueens.dll
+C:\Users\hamed\source\repos\nQueens\nQueens\obj\Debug\netcoreapp3.1\nQueens.pdb
+C:\Users\hamed\source\repos\nQueens\nQueens\obj\Debug\netcoreapp3.1\nQueens.genruntimeconfig.cache
